@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Landsy Louis-Jean 👋
 
-<!--
-**landsylj/landsylj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting professional with 8+ years in the public and banking sectors, including 6 years as Accounting Manager at the Congress of Haiti. Now exploring how data quality and automation apply to financial data.
 
-Here are some ideas to get you started:
+**Focus:** General accounting · Financial statements · Bank reconciliations · Budget management · Internal controls · Compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Excel (advanced: pivot tables, XLOOKUP, SUMIFS, budget models) · QuickBooks · Sage · Google Workspace
+
+**Languages:** Haitian Creole · French · English
+
+**Education:** B.Sc. Accounting Science, Université Ruben Leconte
+
+📫 [LinkedIn](https://www.linkedin.com/in/louis-jean-landsy-25703b1b5)
